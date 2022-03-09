@@ -6,9 +6,11 @@ labels: ""
 assignees: ""
 ---
 
----
+hogehoge
+fugafuga
 
-hoge:
-foo:
-
----
+```
+{
+  "id": 11111
+}
+```
