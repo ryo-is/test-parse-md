@@ -1,4 +1,10 @@
-# Template
+---
+name: Relaase
+about: Relaase
+title: ""
+labels: ""
+assignees: ""
+---
 
 ---
 
